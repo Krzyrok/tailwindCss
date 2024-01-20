@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Krzyrok/tailwindCss#readme",
   "devDependencies": {
+    "prettier": "3.2.4",
+    "prettier-plugin-tailwindcss": "0.5.11",
     "tailwindcss": "3.4.1"
   }
 }
