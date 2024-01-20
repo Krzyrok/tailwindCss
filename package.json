@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Krzyrok/tailwindCss/issues"
   },
-  "homepage": "https://github.com/Krzyrok/tailwindCss#readme"
+  "homepage": "https://github.com/Krzyrok/tailwindCss#readme",
+  "devDependencies": {
+    "tailwindcss": "3.4.1"
+  }
 }
